@@ -1,0 +1,36 @@
+{
+    "Language": "Russian",
+
+    "StartUp": "Начало работы",
+    "Main": "Главная",
+    "1step": "1 Шаг",
+    "2step": "2 Шаг",
+    "3step": "3 Шаг",
+    "SlotSettings":"Настройки слота",
+    "Width":"Ширина",
+    "Height":"Высота",
+    "CountElementsByHeight":["Кол-во", "Элементов", "По высоте"],
+    "CountElementsByWidth":["Кол-во", "Элементов", "По ширине"],
+    "SetCurrentSettings": "Применить текущие настройки",
+
+    "ConfigureSlot": "Конфигурация Слота",
+
+    "Settings": "Настройки",
+    "ScriptLanguage": "Язык Скрипта",
+    "AllowDialogueMessages": "Вывод диалоговых сообщений",
+    "SaveJSONConfig": "Сохранить JSON конфигурацию",
+    "ThanksForUsing": "Спасибо, что используете наш скрипт",
+    "DeveloperIs": "Разработчик: ",
+    "HelloToTransnstria": "Всем жителям Приднестровья привет",
+
+    "Spin": "Прокрут",
+    "AddSpin": "Добавить прокрут",
+    "DeleteSpin": "Удалить последний прокрут",
+    "ChooseWinElements": "Выберите элементы с выигрышной анимацией",
+    "WinElement": "Выигрышный элемент ->",
+    "SetThis": "<- Применить конфигурацию",
+    "AddHorizontal": "Добавить Горизонтальную линию",
+    "AddVertical": "Добавить Вертикальную линию",
+    "": ""
+
+}

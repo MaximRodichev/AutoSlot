@@ -1,0 +1,35 @@
+{
+    "Language": "English",
+
+    "StartUp": "StartUp",
+    "Main": "Main",
+    "1step": "1 Step",
+    "2step": "2 Step",
+    "3step": "3 Step",
+    "SlotSettings":"Slot Settings",
+    "Width":"Width",
+    "Height":"Height",
+    "CountElementsByHeight":["Count", "Elements", "By Height"],
+    "CountElementsByWidth":["Count", "Elements", "By Width"],
+    "SetCurrentSettings": "Set Current Settings",
+
+    "ConfigureSlot": "Configure Slot",
+
+    "Settings": "Settings",
+    "ScriptLanguage": "Script Language",
+    "AllowDialogueMessages": "Allow Help Messages",
+    "SaveJSONConfig": "Save JSON Configuration",
+    "ThanksForUsing": "Thanks For Using",
+    "DeveloperIs": "DeveloperIs: ",
+    "HelloToTransnstria": "Hello Transnistria, Pridnestrovie",
+
+    "Spin": "Spin",
+    "AddSpin": "Add Spin",
+    "DeleteSpin": "Delete last Spin",
+    "ChooseWinElements": "Choose Win Elements",
+    "WinElement": "Win Element ->",
+    "SetThis": "<- Set This Configuration",
+    "AddHorizontal": "Add Horizontal Line",
+    "AddVertical": "Add Vertical Line",
+    "": ""
+}
